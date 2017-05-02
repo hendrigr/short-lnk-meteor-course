@@ -1,0 +1,24 @@
+{
+  "name": "router",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "apollo-client": "^1.0.4",
+    "babel-runtime": "^6.20.0",
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "graphql": "^0.9.3",
+    "graphql-server-express": "^0.7.2",
+    "graphql-tools": "^0.11.0",
+    "history": "^4.6.1",
+    "meteor-node-stubs": "~0.2.4",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-modal": "^1.7.7",
+    "react-router": "^4.1.1",
+    "simpl-schema": "^0.2.3"
+  }
+}
